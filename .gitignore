@@ -3,3 +3,5 @@ __pycache__/
 
 train_models
 train_metadata
+
+.DS_Store
